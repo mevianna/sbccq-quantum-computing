@@ -31,6 +31,8 @@ The following links provide additional details that contribute to the reproducib
 - Selected databases and applied search strings: [Database Search Strategy](search-strategy.md)
 - Inclusion and exclusion criteria and full-text stage articles: [Eligibility Criteria and Full-Text Assessment](eligibility-criteria-and-full-text-assessment.md)
 
+# Studies Referenced in Tables
+
 Additionally, the complete mapping between study identifiers (P1–P28) and their full bibliographic references is available in the replication package:
 
 - [Studies List (P1–P28)](studies-list.md)
