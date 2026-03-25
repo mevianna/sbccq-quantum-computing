@@ -1,9 +1,5 @@
 ## Studies List (P1–P28)
 
-The following table provides the mapping between study identifiers and their full references.
-
-## Studies List (P1–P28)
-
 The following table provides the mapping between study identifiers and their full bibliographic references.
 
 | ID  | Reference |
