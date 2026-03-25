@@ -31,6 +31,12 @@ The following links provide additional details that contribute to the reproducib
 - Selected databases and applied search strings: [Database Search Strategy](search-strategy.md)
 - Inclusion and exclusion criteria and full-text stage articles: [Eligibility Criteria and Full-Text Assessment](eligibility-criteria-and-full-text-assessment.md)
 
+Additionally, the complete mapping between study identifiers (P1–P28) and their full bibliographic references is provided in the replication package available in this repository.
+
+- Studies List (P1–P28): [Studies List](studies-list.md)
+
+Each study is consistently identified using an ID (P1–P28), which is used throughout the manuscript to ensure traceability and reproducibility.
+
 # References
 [1] M. J. Page *et al*., “The PRISMA 2020 statement: an updated guideline for reporting systematic reviews,” *BMJ*, vol. 372, n71, 2021.
 
