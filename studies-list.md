@@ -1,3 +1,35 @@
+# Studies List
+
+For ease of reference, we present again the classification tables, followed by the complete list of studies (P1–P28). This organization allows readers to quickly identify each study within the proposed categories and directly access its full bibliographic information below.
+
+## Classification of papers according to quantum-based approaches
+
+| Category                   | Papers                                                                 |
+|--------------------------|------------------------------------------------------------------------|
+| **Quantum Optimization** | P1, P3, P4, P5, P6, P8, P9, P10, P11, P15, P18, P19, P20, P21, P22, P23, P24, P25, P26, P27 |
+| **Quantum Machine Learning** | P2, P7, P13, P14, P16, P17, P28 |
+| **Quantum Architecture** | P12 |
+
+## Subcategories of quantum-based approaches
+
+| Category | Subcategory | Papers |
+|----------|------------|--------|
+| **Quantum Optimization** | Quantum Annealing | P6, P8, P9, P10, P18, P22, P24, P25, P26 |
+| **Quantum Optimization** | Variational Quantum Algorithms | P6, P11, P20, P21, P23 |
+| **Quantum Optimization** | Other | P1, P3, P4, P5, P15, P27 |
+| **Quantum Machine Learning** | Quantum Neural Networks | P2, P13, P16, P27 |
+| **Quantum Machine Learning** | Quantum Reinforcement Learning | P7, P28 |
+| **Quantum Machine Learning** | Quantum Tensor Networks | P14 |
+
+### Approaches adopted by the studies
+
+| Approach                          | Papers |
+|----------------------------------|--------|
+| **Motion Planning**               | P1, P3, P4, P5, P6, P8, P9, P10, P11, P13, P16, P18, P19, P20, P21, P22, P23, P24, P25, P26, P27, P28 |
+| **Obstacle Detection**            | P2, P14, P15, P17 |
+| **Obstacle Avoidance**            | P7 |
+| **Infrastructure-Related Optimization** | P12 |
+
 ## Studies List (P1–P28)
 
 The following table provides the mapping between study identifiers and their full bibliographic references.
